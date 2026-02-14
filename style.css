@@ -6,7 +6,7 @@
 }
 
 .navbar {
-    height: 60px;
+    height: 85px;
     background-color: #0f1111;
     color: white;
     display: flex;
@@ -14,11 +14,11 @@
     justify-content:space-evenly ;
 }
 .nav-logo {
-    height: 50px;
-    width: 100px;
+    height: 62px;
+    width: 62px;
 }
 .logo {
-    background-image:url("amazon_logo.png");
+    background-image:url("");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -32,7 +32,7 @@
 /* box2 */
 .add-first{
     color: #cccccc;
-    font-size:0.85rem ;
+    font-size:1rem ;
     margin-left: 15px;
 }
 
@@ -99,12 +99,12 @@ span {
 
 /* Box6 */
 .nav-cart i {
-    font-size: 30px;
+    font-size: 70px;
 }
 
 .nav-cart {
-    font-size: 0.85rem;
-    font-weight: 700;
+    font-size: 0.95rem;
+    font-weight: 1000;
 }
 
 /* panel*/
@@ -134,7 +134,7 @@ span {
 
 /*hero section */
 .hero-section {
-    background-image: url("career.avif");
+    background-image: url("hero img.jpg");
     background-size: cover;
     height: 350px;
     display: flex;

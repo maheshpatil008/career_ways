@@ -134,9 +134,9 @@ span {
 
 /*hero section */
 .hero-section {
-    background-image: url("hero img.jpeg");
+    background-image: url("hero img.jpg");
     background-size: cover;
-    height: 350px;
+    height: 550px;
     display: flex;
     justify-content: center;
     align-items:flex-end ;
@@ -201,7 +201,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 0.08rem;
+    font-size: 1rem;
 }
 
 .foot-panel2 {
@@ -233,10 +233,10 @@ ul a {
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("logo.png");
     background-size: cover;
     height: 50px;
-    width: 100px;
+    width: 50px;
 }
 
 .foot-panel4 {
